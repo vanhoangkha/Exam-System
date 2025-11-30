@@ -1,5 +1,12 @@
 # AWS Exam System
 
+![License](https://img.shields.io/github/license/vanhoangkha/Exam-System?style=flat-square)
+![Stars](https://img.shields.io/github/stars/vanhoangkha/Exam-System?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/vanhoangkha/Exam-System?style=flat-square)
+![Language](https://img.shields.io/github/languages/top/vanhoangkha/Exam-System?style=flat-square)
+
+
+
 A production-ready online examination platform built with Next.js 14, featuring real-time exam taking, automated grading, and comprehensive analytics.
 
 ## Overview
